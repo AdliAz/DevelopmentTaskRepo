@@ -17,9 +17,9 @@
                              Padding="0">
                     <Grid RowDefinitions="*,auto">
                         <StackLayout Margin="10">
-                            <!--Flowers-->
+                            <!--Flower Inventory-->
                             <StackLayout >
-                                <Label Text="Flowers"
+                                <Label Text="Flower Inventory"
                                        Style="{StaticResource MenuItemLabelStyle}"/>
                                 <BoxView Style="{StaticResource BoxViewSeparatorStyle}"/>
                                 <StackLayout.GestureRecognizers>
@@ -28,7 +28,6 @@
                                                           CommandParameter="Dresses"/>
                                 </StackLayout.GestureRecognizers>
                             </StackLayout>
-
                         </StackLayout>
                     </Grid>
 

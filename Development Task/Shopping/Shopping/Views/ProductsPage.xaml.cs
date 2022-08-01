@@ -1,4 +1,5 @@
 ﻿using Xamarin.Forms;
+using FlowerInventory.Services;
 
 namespace FlowerInventory.Views
 {
@@ -9,5 +10,16 @@ namespace FlowerInventory.Views
             InitializeComponent();
         }
 
+        private void Button_Clicked(object sender, System.EventArgs e)
+        {
+            Btn_AddConfirm.Text = "Flower had been added";
+            entryName.Text = "";
+            entryName.Placeholder = "Flower Name";
+            entryQty.Text = "";
+            entryQty.Placeholder = "Quantity";
+            entryPrice.Text = "";
+            entryPrice.Placeholder = "Price";
+
+        }
     }
 }

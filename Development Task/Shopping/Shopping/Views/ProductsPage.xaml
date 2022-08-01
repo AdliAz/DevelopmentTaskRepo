@@ -7,65 +7,80 @@
              x:Class="FlowerInventory.Views.ProductsPage"
              x:Name="ProductsView">
     <NavigationPage.TitleView>
+        <!-- Header -->
         <UserCtrls:HeaderUserControl Title="{Binding Title}"
                                            ProductCount="{Binding Source={x:Reference ProductsView}, Path=BindingContext.ProductCount}"
                                            GoToBasketCommand="{Binding Source={x:Reference ProductsView}, Path=BindingContext.GoToBasketCommand}"
                                           />
     </NavigationPage.TitleView>
-    <Grid>
-        <CollectionView ItemsSource="{Binding ProductsList}"
+    <StackLayout>
+        <Grid>
+            <CollectionView ItemsSource="{Binding ProductsList}"
                         ItemsLayout="VerticalGrid, 2"
-                        
                         Margin="5">
-            <CollectionView.ItemTemplate>
-                <DataTemplate>
+                <CollectionView.Header>
                     <StackLayout>
-                        <Grid RowDefinitions="auto,30,50,1"
+                        <!-- Adding new flower -->
+                        <Label Text="Add New Flower" FontSize="Medium"/>
+                        <Entry x:Name="entryName" Placeholder="Flower Name"/>
+                        <Entry x:Name="entryQty" Placeholder="Quantity"/>
+                        <Entry x:Name="entryPrice" Placeholder="Price"/>
+                        <Button Text="Add" Clicked="Button_Clicked"/>
+                        <Label x:Name="Btn_AddConfirm" FontSize="Small"
+                               HorizontalTextAlignment="Center"
+                               TextColor="LightGreen"/>
+                    </StackLayout>
+                </CollectionView.Header>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <Grid RowDefinitions="auto,30,50,1"
                           ColumnDefinitions="*,70"
                           Margin="0,4,0,0">
-                            <Frame BorderColor="LightGray"
+                                <Frame BorderColor="LightGray"
                                Padding="3"
                                Grid.ColumnSpan="2">
-                                <!-- Thumbnail -->
-                                <Image Source="{Binding Thumbnail}"
+                                    <!-- Thumbnail -->
+                                    <Image Source="{Binding Thumbnail}"
                                Aspect="AspectFill"
                                VerticalOptions="Center"
                                HorizontalOptions="Center"/>
-                            </Frame>
-                            <!-- Name -->
-                            <Label Grid.Row="1"
+                                </Frame>
+                                <!-- Name -->
+                                <Label Grid.Row="1"
                                Grid.ColumnSpan="2"
                                Style="{StaticResource ProductTitleLabelStyle}"
                                HorizontalOptions="Start"
                                Text="{Binding Name}"/>
-                            <!-- Quantity -->
-                            <Label Text="Quantity: "
+                                <!-- Quantity -->
+                                <Label Text="Quantity: "
                                    FontSize="Small"
                                    Grid.Row="2"
                                    Grid.ColumnSpan="2"
                                    HorizontalOptions="Start"/>
-                            <Entry Grid.Row="2"
+                                <Entry Grid.Row="2"
                                Grid.ColumnSpan="2"
                                Style="{StaticResource ProductTitleLabelStyle}"
                                HorizontalOptions="Start"
                                Text="{Binding Quantity}"/>
-                            <!-- Price -->
-                            <Label Text="$                  "
+                                <!-- Price -->
+                                <Label Text="$                  "
                                    BackgroundColor="Black"
                                    TextColor="White"
                                    Grid.Row="2"
                                    Grid.ColumnSpan="2"
                                    HorizontalOptions="End"/>
-                            <Entry Grid.Row="2"
+                                <Entry Grid.Row="2"
                                    Grid.ColumnSpan="2"
                                    TextColor="White"
                                    Style="{StaticResource ProductTitleLabelStyle}"
                                    HorizontalOptions="End"
                                    Text="{Binding Price, StringFormat='{0:0.00}'}"/>
-                        </Grid>
-                    </StackLayout>
-                </DataTemplate>
-            </CollectionView.ItemTemplate>
-        </CollectionView>
-    </Grid>
+                            </Grid>
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+    </StackLayout>
 </ContentPage>
