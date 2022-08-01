@@ -5,7 +5,7 @@
              Title="{Binding Title}">
 
     <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
-        <Label Text="Developed using Xamarin Forms and Prism by Adli" />
+        <Label Text="Developed using Xamarin Forms and Prism by Adli &#x0a;&#x0a;Click the tab on the top left corner to find the Development Task Application!" />
     </StackLayout>
 
 </ContentPage>
