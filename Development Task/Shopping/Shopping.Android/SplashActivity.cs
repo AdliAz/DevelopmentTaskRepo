@@ -2,7 +2,7 @@ using Android.App;
 using Android.Content;
 using AndroidX.AppCompat.App;
 
-namespace Shopping.Droid
+namespace FlowerInventory.Droid
 {
     [Activity(Theme = "@style/MainTheme.Splash",
               MainLauncher = true,

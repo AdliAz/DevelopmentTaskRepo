@@ -1,11 +1,11 @@
-﻿using Shopping.Models.Enums;
-using Shopping.Models.Models;
-using Shopping.Services.Interfaces;
+﻿using FlowerInventory.Models.Enums;
+using FlowerInventory.Models.Models;
+using FlowerInventory.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Shopping.Services
+namespace FlowerInventory.Services
 {
     public class ProductsService : IProductsService
     {

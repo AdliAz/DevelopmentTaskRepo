@@ -2,9 +2,9 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:prism="http://prismlibrary.com"
-             xmlns:UserCtrls="clr-namespace:Shopping.Views.UserControls"
+             xmlns:UserCtrls="clr-namespace:FlowerInventory.Views.UserControls"
              prism:ViewModelLocator.AutowireViewModel="True"
-             x:Class="Shopping.Views.ProductsPage"
+             x:Class="FlowerInventory.Views.ProductsPage"
              x:Name="ProductsView">
     <NavigationPage.TitleView>
         <UserCtrls:HeaderUserControl Title="{Binding Title}"

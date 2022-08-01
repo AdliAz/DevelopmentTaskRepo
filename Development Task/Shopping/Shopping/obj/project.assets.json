@@ -980,11 +980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping\\Development task.csproj",
+      "projectUniqueName": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping\\Development task.csproj",
       "projectName": "Development task",
-      "projectPath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping\\Development task.csproj",
+      "projectPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping\\Development task.csproj",
       "packagesPath": "C:\\Users\\adlis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping\\obj\\",
+      "outputPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1005,8 +1005,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping.Models\\Shopping.Models.csproj": {
-              "projectPath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping.Models\\Shopping.Models.csproj"
+            "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj": {
+              "projectPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj"
             }
           }
         }

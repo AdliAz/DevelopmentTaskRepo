@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Shopping.ViewModels
+namespace FlowerInventory.ViewModels
 {
     public class MainPageViewModel : ViewModelBase
     {

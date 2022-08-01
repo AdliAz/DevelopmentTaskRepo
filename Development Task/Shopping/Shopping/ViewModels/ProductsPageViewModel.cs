@@ -1,13 +1,13 @@
 ﻿using Newtonsoft.Json;
 using Prism.Commands;
 using Prism.Navigation;
-using Shopping.Models.Models;
-using Shopping.Services.Interfaces;
-using Shopping.Views;
+using FlowerInventory.Models.Models;
+using FlowerInventory.Services.Interfaces;
+using FlowerInventory.Views;
 using System.Collections.Generic;
 using System.Windows.Input;
 
-namespace Shopping.ViewModels
+namespace FlowerInventory.ViewModels
 {
     public class ProductsPageViewModel : ViewModelBase
     {

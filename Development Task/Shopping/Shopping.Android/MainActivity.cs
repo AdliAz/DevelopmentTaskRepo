@@ -7,7 +7,7 @@ using Xamarin.Forms;
 
 
 
-namespace Shopping.Droid
+namespace FlowerInventory.Droid
 {
     [Activity(Theme = "@style/MainTheme",
               ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode | ConfigChanges.ScreenLayout | ConfigChanges.SmallestScreenSize)]
@@ -22,7 +22,7 @@ namespace Shopping.Droid
             Forms.SetFlags("SwipeView_Experimental", "CarouselView_Experimental");
 
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
-            LoadApplication(new Shopping.App(new AndroidInitializer()));
+            LoadApplication(new FlowerInventory.App(new AndroidInitializer()));
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, Android.Content.PM.Permission[] grantResults)

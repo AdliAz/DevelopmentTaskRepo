@@ -1,8 +1,8 @@
 package mono;
 public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
-		/* We need to ensure that "Shopping.Android.dll" comes first in this list. */
-		"Shopping.Android.dll",
+		/* We need to ensure that "FlowerInventory.Android.dll" comes first in this list. */
+		"FlowerInventory.Android.dll",
 		"Shopping.Models.dll",
 		"Development task.dll",
 		"Essential.Interfaces.dll",

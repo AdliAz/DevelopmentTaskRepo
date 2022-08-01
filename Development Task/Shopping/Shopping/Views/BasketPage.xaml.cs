@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace Shopping.Views
+namespace FlowerInventory.Views
 {
     public partial class BasketPage : ContentPage
     {

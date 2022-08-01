@@ -1,14 +1,14 @@
 ﻿using Prism.Commands;
 using Prism.Mvvm;
 using Prism.Navigation;
-using Shopping.Views;
+using FlowerInventory.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Input;
 using Xamarin.Forms;
 
-namespace Shopping.ViewModels
+namespace FlowerInventory.ViewModels
 {
     public class HomeMasterDetailPageViewModel : ViewModelBase
     {

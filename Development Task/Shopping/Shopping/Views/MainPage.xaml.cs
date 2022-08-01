@@ -1,5 +1,5 @@
 ﻿
-namespace Shopping.Views
+namespace FlowerInventory.Views
 {
     public partial class MainPage
     {

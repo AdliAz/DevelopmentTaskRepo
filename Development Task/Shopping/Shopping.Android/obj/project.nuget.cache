@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hyqx6uASRG22WFiZSY0NGcHKwXTlNvePRigPakb8IjbL1YY8VWE0Ifzjh7d1q+qGp99hGUSWSMxfunFkc2JWSA==",
+  "dgSpecHash": "9bmsXjfrYuCm09dpmg9Hg+Ccb4/31xcF3QNWzx3ettDhWkvZ2+VAnIWyY8pWRax2e0JZHVi2dmpLc2OzrmCmtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping.Android\\Shopping.Android.csproj",
+  "projectFilePath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping.Android\\Shopping.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adlis\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\adlis\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",

@@ -1,6 +1,6 @@
-﻿using Shopping.Models.Enums;
+﻿using FlowerInventory.Models.Enums;
 
-namespace Shopping.Models.Models
+namespace FlowerInventory.Models.Models
 {
     public class ProductModel: BaseModel
     {

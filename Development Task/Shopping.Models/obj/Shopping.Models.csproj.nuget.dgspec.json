@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping.Models\\Shopping.Models.csproj": {}
+    "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping.Models\\Shopping.Models.csproj": {
+    "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping.Models\\Shopping.Models.csproj",
+        "projectUniqueName": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj",
         "projectName": "Shopping.Models",
-        "projectPath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping.Models\\Shopping.Models.csproj",
+        "projectPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj",
         "packagesPath": "C:\\Users\\adlis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping.Models\\obj\\",
+        "outputPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

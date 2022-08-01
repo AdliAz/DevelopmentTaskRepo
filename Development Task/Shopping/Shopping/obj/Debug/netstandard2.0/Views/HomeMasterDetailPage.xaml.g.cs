@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Development_task.Views.HomeMasterDetailPage.xaml", "Views/HomeMasterDetailPage.xaml", typeof(global::Shopping.Views.HomeMasterDetailPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Development_task.Views.HomeMasterDetailPage.xaml", "Views/HomeMasterDetailPage.xaml", typeof(global::FlowerInventory.Views.HomeMasterDetailPage))]
 
-namespace Shopping.Views {
+namespace FlowerInventory.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\HomeMasterDetailPage.xaml")]

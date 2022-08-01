@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KJ31qkPsTqo4TCWXHqJOl02W9Uk0Ybc/gbfXPPunK7pN74FPrMcSPj9RZ5dS2cCyaQ5fNzWrUdUAnBQ1SvbQag==",
+  "dgSpecHash": "OBQGqlFz7Poi1fcoJPtMu/paVUNTTsuKq+hM9nsO6FkckYFUc32LwtBwa5cbu9s6dq7vW0Fmo3OzFrpM4MAePA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping\\Development task.csproj",
+  "projectFilePath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping\\Development task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adlis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\adlis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

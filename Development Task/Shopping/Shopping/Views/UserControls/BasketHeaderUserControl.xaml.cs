@@ -7,7 +7,7 @@ using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Shopping.Views.UserControls
+namespace FlowerInventory.Views.UserControls
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class HeaderUserControl : Grid

@@ -2,7 +2,7 @@ using System;
 using Android.App;
 using Android.Runtime;
 
-namespace Shopping.Droid
+namespace FlowerInventory.Droid
 {
     [Application(
         Theme = "@style/MainTheme"

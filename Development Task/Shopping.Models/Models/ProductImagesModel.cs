@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Shopping.Models.Models
+namespace FlowerInventory.Models.Models
 {
     public class ProductImagesModel: BaseModel
     {

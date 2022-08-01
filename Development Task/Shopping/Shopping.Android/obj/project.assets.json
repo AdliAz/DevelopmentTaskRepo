@@ -2388,11 +2388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping.Android\\Shopping.Android.csproj",
-      "projectName": "Shopping.Android",
-      "projectPath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping.Android\\Shopping.Android.csproj",
+      "projectUniqueName": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping.Android\\Shopping.Android.csproj",
+      "projectName": "FlowerInventory.Android",
+      "projectPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping.Android\\Shopping.Android.csproj",
       "packagesPath": "C:\\Users\\adlis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping.Android\\obj\\",
+      "outputPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2413,8 +2413,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping\\Development task.csproj": {
-              "projectPath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping\\Shopping\\Development task.csproj"
+            "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping\\Development task.csproj": {
+              "projectPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping\\Development task.csproj"
             }
           }
         }

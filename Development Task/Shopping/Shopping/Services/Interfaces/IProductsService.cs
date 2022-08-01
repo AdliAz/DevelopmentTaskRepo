@@ -1,7 +1,7 @@
-﻿using Shopping.Models.Models;
+﻿using FlowerInventory.Models.Models;
 using System.Collections.Generic;
 
-namespace Shopping.Services.Interfaces
+namespace FlowerInventory.Services.Interfaces
 {
     public interface IProductsService
     {

@@ -1,14 +1,14 @@
 using Prism;
 using Prism.Ioc;
-using Shopping.Services.Interfaces;
-using Shopping.Services;
-using Shopping.ViewModels;
-using Shopping.Views;
+using FlowerInventory.Services.Interfaces;
+using FlowerInventory.Services;
+using FlowerInventory.ViewModels;
+using FlowerInventory.Views;
 using Xamarin.Essentials.Implementation;
 using Xamarin.Essentials.Interfaces;
 using Xamarin.Forms;
 
-namespace Shopping
+namespace FlowerInventory
 {
     public partial class App
     {

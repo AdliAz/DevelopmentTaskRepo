@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Shopping.Models.Enums
+namespace FlowerInventory.Models.Enums
 {
     public enum ProductsEnum
     {

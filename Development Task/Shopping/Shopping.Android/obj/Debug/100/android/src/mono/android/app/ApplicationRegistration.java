@@ -5,7 +5,7 @@ public class ApplicationRegistration {
 	public static void registerApplications ()
 	{
 				// Application and Instrumentation ACWs must be registered first.
-		mono.android.Runtime.register ("Shopping.Droid.MainApplication, Shopping.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", crc64057c3916d961cbfa.MainApplication.class, crc64057c3916d961cbfa.MainApplication.__md_methods);
+		mono.android.Runtime.register ("FlowerInventory.Droid.MainApplication, FlowerInventory.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", crc6476832a0a3545a9d3.MainApplication.class, crc6476832a0a3545a9d3.MainApplication.__md_methods);
 		
 	}
 }

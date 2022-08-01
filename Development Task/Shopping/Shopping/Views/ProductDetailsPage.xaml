@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:prism="http://prismlibrary.com"
              prism:ViewModelLocator.AutowireViewModel="True"
-             x:Class="Shopping.Views.ProductDetailsPage"
-             xmlns:UserCtrls="clr-namespace:Shopping.Views.UserControls"
+             x:Class="FlowerInventory.Views.ProductDetailsPage"
+             xmlns:UserCtrls="clr-namespace:FlowerInventory.Views.UserControls"
              x:Name="ProductDetails">
     <NavigationPage.TitleView>
         <UserCtrls:HeaderUserControl Title="{Binding Title}"

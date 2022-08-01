@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Development_task.App.xaml", "App.xaml", typeof(global::Shopping.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Development_task.App.xaml", "App.xaml", typeof(global::FlowerInventory.App))]
 
-namespace Shopping {
+namespace FlowerInventory {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]

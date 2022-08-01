@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Development_task.Views.UserControls.BasketHeaderUserControl.xaml", "Views/UserControls/BasketHeaderUserControl.xaml", typeof(global::Shopping.Views.UserControls.HeaderUserControl))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Development_task.Views.UserControls.BasketHeaderUserControl.xaml", "Views/UserControls/BasketHeaderUserControl.xaml", typeof(global::FlowerInventory.Views.UserControls.HeaderUserControl))]
 
-namespace Shopping.Views.UserControls {
+namespace FlowerInventory.Views.UserControls {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\UserControls\\BasketHeaderUserControl.xaml")]
