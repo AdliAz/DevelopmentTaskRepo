@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NszmZcQz7vMso/m9K8PyLWX93jjen5Kr4V3YQIZJEpFTz+VrH3KacSpxgdVfId3n861bXvmfM8PTHOtbAF1XuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adlis\\Desktop\\Xamarin-Forms-master\\Shopping\\Shopping.Models\\Shopping.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adlis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\prism.forms\\8.0.0.1909\\prism.forms.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\xamarin.forms\\4.8.0.1687\\xamarin.forms.4.8.0.1687.nupkg.sha512"
+  ],
+  "logs": []
+}

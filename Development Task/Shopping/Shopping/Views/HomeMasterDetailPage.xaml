@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                  xmlns:prism="http://prismlibrary.com" xmlns:Views="clr-namespace:Shopping.Views"
+                  prism:ViewModelLocator.AutowireViewModel="True"
+                  x:Class="Shopping.Views.HomeMasterDetailPage"
+                  NavigationPage.HasNavigationBar="False"
+                  x:Name="MasterPage">
+
+    <MasterDetailPage.Master>
+        <NavigationPage Title="Menu"
+                        IconImageSource="ic_hamburger.png">
+           
+            <x:Arguments>
+                <ContentPage NavigationPage.HasBackButton="False"
+                             Title="Menu"
+                             Padding="0">
+                    <Grid RowDefinitions="*,auto">
+                        <StackLayout Margin="10">
+                            <!--Flowers-->
+                            <StackLayout >
+                                <Label Text="Flowers"
+                                       Style="{StaticResource MenuItemLabelStyle}"/>
+                                <BoxView Style="{StaticResource BoxViewSeparatorStyle}"/>
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding Source={x:Reference MasterPage}, Path=BindingContext.MenuItemClickCommand}"
+                                                          NumberOfTapsRequired="1"
+                                                          CommandParameter="Dresses"/>
+                                </StackLayout.GestureRecognizers>
+                            </StackLayout>
+
+                        </StackLayout>
+                    </Grid>
+
+                </ContentPage>
+            </x:Arguments>
+
+        </NavigationPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <Views:MainPage/>
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+
+</MasterDetailPage>

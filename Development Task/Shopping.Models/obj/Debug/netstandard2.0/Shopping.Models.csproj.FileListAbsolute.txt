@@ -1,0 +1,10 @@
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\bin\Debug\netstandard2.0\Shopping.Models.deps.json
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\bin\Debug\netstandard2.0\Shopping.Models.dll
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\bin\Debug\netstandard2.0\Shopping.Models.pdb
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\obj\Debug\netstandard2.0\Shopping.Models.csproj.AssemblyReference.cache
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\obj\Debug\netstandard2.0\Shopping.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\obj\Debug\netstandard2.0\Shopping.Models.AssemblyInfoInputs.cache
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\obj\Debug\netstandard2.0\Shopping.Models.AssemblyInfo.cs
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\obj\Debug\netstandard2.0\Shopping.Models.csproj.CoreCompileInputs.cache
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\obj\Debug\netstandard2.0\Shopping.Models.dll
+C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping.Models\obj\Debug\netstandard2.0\Shopping.Models.pdb
