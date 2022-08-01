@@ -8,5 +8,6 @@ namespace FlowerInventory.Views
         {
             InitializeComponent();
         }
+
     }
 }

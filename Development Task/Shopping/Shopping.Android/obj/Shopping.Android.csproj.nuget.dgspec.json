@@ -4,12 +4,12 @@
     "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping.Android\\Shopping.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj": {
+    "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\FlowerInventory.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj",
-        "projectName": "Shopping.Models",
-        "projectPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj",
+        "projectUniqueName": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\FlowerInventory.Models.csproj",
+        "projectName": "FlowerInventory.Models",
+        "projectPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\FlowerInventory.Models.csproj",
         "packagesPath": "C:\\Users\\adlis\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\obj\\",
         "projectStyle": "PackageReference",
@@ -57,6 +57,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.8.0.1687, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -155,8 +159,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj": {
-                "projectPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\Shopping.Models.csproj"
+              "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\FlowerInventory.Models.csproj": {
+                "projectPath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping.Models\\FlowerInventory.Models.csproj"
               }
             }
           }
@@ -192,6 +196,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.8.0.1687, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [

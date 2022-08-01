@@ -1,5 +1,7 @@
 using Prism;
 using Prism.Ioc;
+using System;
+using System.IO;
 using FlowerInventory.Services.Interfaces;
 using FlowerInventory.Services;
 using FlowerInventory.ViewModels;
@@ -7,11 +9,25 @@ using FlowerInventory.Views;
 using Xamarin.Essentials.Implementation;
 using Xamarin.Essentials.Interfaces;
 using Xamarin.Forms;
+using FlowerInventory.Models.Models;
 
 namespace FlowerInventory
 {
     public partial class App
     {
+        private static Database database;
+
+        public static Database Database
+        {
+            get {
+                if (database == null)
+                {
+                    database = new Database(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "flower.db3))"));
+                }
+                return database;
+            }
+        }
+
         public App(IPlatformInitializer initializer)
             : base(initializer)
         {
@@ -34,7 +50,7 @@ namespace FlowerInventory
             containerRegistry.RegisterForNavigation<ProductsPage, ProductsPageViewModel>();
 
             containerRegistry.Register<IProductsService, ProductsService>();
-            containerRegistry.RegisterForNavigation<BasketPage, HeaderPageViewModel>();
+            //containerRegistry.RegisterForNavigation<BasketPage, HeaderPageViewModel>();
         }
     }
 }

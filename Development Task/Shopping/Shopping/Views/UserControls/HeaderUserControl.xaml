@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Grid  xmlns="http://xamarin.com/schemas/2014/forms"
+         xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+         xmlns:prism="http://prismlibrary.com"
+         x:Class="FlowerInventory.Views.UserControls.HeaderUserControl"
+        ColumnDefinitions="*,100"
+       x:Name="BasketHeader">
+    <Label Text="Flower Inventory"
+           TextColor="White"
+           FontSize="20"
+           VerticalTextAlignment="Center"/>
+    <Label x:Name="lblMessage" 
+           TextColor="Green"
+           VerticalTextAlignment="End"/>
+    <Frame Grid.Column="1"
+           Margin="0"
+           BackgroundColor="LightGreen"
+           Padding="5"
+           HasShadow="True"
+           CornerRadius="50"
+           WidthRequest="40"
+           HorizontalOptions="Center">
+        <Button Text="Save"
+                Clicked="Button_Clicked"
+                BackgroundColor="LightGreen"
+                FontSize="Micro"
+                WidthRequest="40"
+                HeightRequest="40"
+                Padding="5"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"/>
+    </Frame>
+</Grid>

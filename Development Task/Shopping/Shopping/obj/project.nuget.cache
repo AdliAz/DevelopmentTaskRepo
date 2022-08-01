@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OBQGqlFz7Poi1fcoJPtMu/paVUNTTsuKq+hM9nsO6FkckYFUc32LwtBwa5cbu9s6dq7vW0Fmo3OzFrpM4MAePA==",
+  "dgSpecHash": "p14UbOJ+PvEHJMl4CGSL74r31QC67B8VYi1dF7Fo1gg4mmuAdW7ZXrKoRNv/Eaf6wFLugVlgRYUqSNBs3s80xQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\Shopping\\Shopping\\Development task.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,13 @@
     "C:\\Users\\adlis\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
     "C:\\Users\\adlis\\.nuget\\packages\\prism.forms\\8.0.0.1909\\prism.forms.8.0.0.1909.nupkg.sha512",
     "C:\\Users\\adlis\\.nuget\\packages\\prism.unity.forms\\8.0.0.1909\\prism.unity.forms.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\adlis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\adlis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\adlis\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",

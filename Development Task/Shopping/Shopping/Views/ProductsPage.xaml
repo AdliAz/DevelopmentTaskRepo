@@ -20,10 +20,10 @@
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <StackLayout>
-                    <Grid RowDefinitions="auto,30,50,1"
+                        <Grid RowDefinitions="auto,30,50,1"
                           ColumnDefinitions="*,70"
                           Margin="0,4,0,0">
-                        <Frame BorderColor="LightGray"
+                            <Frame BorderColor="LightGray"
                                Padding="3"
                                Grid.ColumnSpan="2">
                                 <!-- Thumbnail -->
@@ -31,7 +31,7 @@
                                Aspect="AspectFill"
                                VerticalOptions="Center"
                                HorizontalOptions="Center"/>
-                        </Frame>
+                            </Frame>
                             <!-- Name -->
                             <Label Grid.Row="1"
                                Grid.ColumnSpan="2"
@@ -39,32 +39,33 @@
                                HorizontalOptions="Start"
                                Text="{Binding Name}"/>
                             <!-- Quantity -->
-                            <Label Grid.Row="2"
+                            <Label Text="Quantity: "
+                                   FontSize="Small"
+                                   Grid.Row="2"
+                                   Grid.ColumnSpan="2"
+                                   HorizontalOptions="Start"/>
+                            <Entry Grid.Row="2"
                                Grid.ColumnSpan="2"
                                Style="{StaticResource ProductTitleLabelStyle}"
                                HorizontalOptions="Start"
-                               Text="{Binding Quantity, StringFormat='Qty:{0:F0}'}"/>
+                               Text="{Binding Quantity}"/>
                             <!-- Price -->
-                            <Frame Grid.Row="2"
-                               Grid.Column="1"
-                               CornerRadius="5"
-                               HasShadow="True"
-                               Margin="0"
-                               Padding="0"
-                               BackgroundColor="{StaticResource BlackColor}"
-                               WidthRequest="60"
-                               HeightRequest="35"
-                               VerticalOptions="Center"
-                               HorizontalOptions="Center"
-                               BorderColor="Blue">
-                                <Label  Text="{Binding Price, StringFormat='{0:C2}'}"
-                                            Style="{StaticResource ProductPriceLabelStyle}"/>
-                            </Frame>
+                            <Label Text="$                  "
+                                   BackgroundColor="Black"
+                                   TextColor="White"
+                                   Grid.Row="2"
+                                   Grid.ColumnSpan="2"
+                                   HorizontalOptions="End"/>
+                            <Entry Grid.Row="2"
+                                   Grid.ColumnSpan="2"
+                                   TextColor="White"
+                                   Style="{StaticResource ProductTitleLabelStyle}"
+                                   HorizontalOptions="End"
+                                   Text="{Binding Price, StringFormat='{0:0.00}'}"/>
                         </Grid>
                     </StackLayout>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
-
         </CollectionView>
     </Grid>
 </ContentPage>

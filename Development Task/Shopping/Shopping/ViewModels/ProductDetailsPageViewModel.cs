@@ -34,7 +34,7 @@ namespace FlowerInventory.ViewModels
         private int productQuantity;
         public int ProductQuantity
         {
-            get => quantity;
+            get => productQuantity;
             set => SetProperty(ref quantity, value);
         }
 

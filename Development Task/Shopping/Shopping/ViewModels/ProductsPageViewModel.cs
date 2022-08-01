@@ -22,11 +22,12 @@ namespace FlowerInventory.ViewModels
             set => SetProperty(ref productsList, value);
         }
 
-        private ProductModel selecetdProduct;
+        private ProductModel selectedProduct;
+
         public ProductModel SelectedProduct 
         {
-            get => selecetdProduct;
-            set => SetProperty(ref selecetdProduct, value);
+            get => selectedProduct;
+            set => SetProperty(ref selectedProduct, value);
         }
         #endregion
 
@@ -37,15 +38,15 @@ namespace FlowerInventory.ViewModels
         public ProductsPageViewModel(INavigationService navigationService, IProductsService productsService)
             : base(navigationService)
         {
-            this.productsService = productsService;
-            ShowProductDetailsCommand = new DelegateCommand<ProductModel>(ShowProductDetails);
+           this.productsService = productsService;
+           //ShowProductDetailsCommand = new DelegateCommand<ProductModel>(ShowProductDetails);
         }
 
-        private void ShowProductDetails(ProductModel product)
-        {
-            var nagivationParams = new NavigationParameters { { "Product", JsonConvert.SerializeObject(product) } };
-            NavigationService.NavigateAsync(nameof(ProductDetailsPage), nagivationParams);
-        }
+        //private void ShowProductDetails(ProductModel product)
+        //{
+            //var nagivationParams = new NavigationParameters { { "Product", JsonConvert.SerializeObject(product) } };
+            //NavigationService.NavigateAsync(nameof(ProductDetailsPage), nagivationParams);
+        //}
 
         public override void OnNavigatedTo(INavigationParameters parameters)
         {

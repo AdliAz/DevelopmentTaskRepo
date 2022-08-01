@@ -3,7 +3,7 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "FlowerInventory.Android.dll" comes first in this list. */
 		"FlowerInventory.Android.dll",
-		"Shopping.Models.dll",
+		"FlowerInventory.Models.dll",
 		"Development task.dll",
 		"Essential.Interfaces.dll",
 		"FormsViewGroup.dll",
@@ -11,6 +11,11 @@ public class MonoPackageManager_Resources {
 		"Prism.dll",
 		"Prism.Forms.dll",
 		"Prism.Unity.Forms.dll",
+		"SQLite-net.dll",
+		"SQLitePCLRaw.batteries_v2.dll",
+		"SQLitePCLRaw.core.dll",
+		"SQLitePCLRaw.lib.e_sqlite3.android.dll",
+		"SQLitePCLRaw.provider.e_sqlite3.dll",
 		"Unity.Abstractions.dll",
 		"Unity.Container.dll",
 		"Xamarin.AndroidX.Activity.dll",
