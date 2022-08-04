@@ -6,15 +6,19 @@ using FlowerInventory.Services.Interfaces;
 using FlowerInventory.Views;
 using System.Collections.Generic;
 using System.Windows.Input;
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+using System;
+using Xamarin.Essentials;
 
 namespace FlowerInventory.ViewModels
 {
     public class ProductsPageViewModel : ViewModelBase
     {
         #region Properties
-        private readonly IProductsService productsService;
+        public IProductsService productsService;
 
-        private IEnumerable<ProductModel> productsList;
+        public IEnumerable<ProductModel> productsList;
 
         public IEnumerable<ProductModel> ProductsList
         {
@@ -22,31 +26,32 @@ namespace FlowerInventory.ViewModels
             set => SetProperty(ref productsList, value);
         }
 
-        private ProductModel selectedProduct;
 
-        public ProductModel SelectedProduct 
-        {
-            get => selectedProduct;
-            set => SetProperty(ref selectedProduct, value);
-        }
         #endregion
 
         #region Commands
         public ICommand ShowProductDetailsCommand { get; private set; }
+        public ICommand AddNewFlower { get; set; }
+
         #endregion
 
         public ProductsPageViewModel(INavigationService navigationService, IProductsService productsService)
             : base(navigationService)
         {
            this.productsService = productsService;
-           //ShowProductDetailsCommand = new DelegateCommand<ProductModel>(ShowProductDetails);
+            AddNewFlower = new DelegateCommand(AddFlower);
         }
 
-        //private void ShowProductDetails(ProductModel product)
-        //{
-            //var nagivationParams = new NavigationParameters { { "Product", JsonConvert.SerializeObject(product) } };
-            //NavigationService.NavigateAsync(nameof(ProductDetailsPage), nagivationParams);
-        //}
+        private void AddFlower()
+        {
+            Console.WriteLine(Preferences.Get("NewFlowerName", "Failed"));
+            Console.WriteLine(Preferences.Get("NewFlowerQty", "Failed"));
+            Console.WriteLine(Preferences.Get("NewFlowerPrice", "Failed"));
+            ProductsList = productsService.AddList(Preferences.Get("NewFlowerName", "Failed"), 
+                int.Parse(Preferences.Get("NewFlowerQty", "Failed")), 
+                float.Parse(Preferences.Get("NewFlowerPrice", "Failed")));
+            Preferences.Clear();
+        }
 
         public override void OnNavigatedTo(INavigationParameters parameters)
         {

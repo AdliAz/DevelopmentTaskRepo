@@ -10,8 +10,7 @@
         <!-- Header -->
         <UserCtrls:HeaderUserControl Title="{Binding Title}"
                                            ProductCount="{Binding Source={x:Reference ProductsView}, Path=BindingContext.ProductCount}"
-                                           GoToBasketCommand="{Binding Source={x:Reference ProductsView}, Path=BindingContext.GoToBasketCommand}"
-                                          />
+                                           GoToBasketCommand="{Binding Source={x:Reference ProductsView}, Path=BindingContext.GoToBasketCommand}"/>
     </NavigationPage.TitleView>
     <StackLayout>
         <Grid>
@@ -22,11 +21,12 @@
                     <StackLayout>
                         <!-- Adding new flower -->
                         <Label Text="Add New Flower" FontSize="Medium"/>
-                        <Entry x:Name="entryName" Placeholder="Flower Name"/>
-                        <Entry x:Name="entryQty" Placeholder="Quantity"/>
-                        <Entry x:Name="entryPrice" Placeholder="Price"/>
-                        <Button Text="Add" Clicked="Button_Clicked"/>
-                        <Label x:Name="Btn_AddConfirm" FontSize="Small"
+                        <Entry x:Name="NewFlowerName" Placeholder="Flower Name"/>
+                        <Entry x:Name="NewFlowerQty" Placeholder="Quantity" Keyboard="Numeric"/>
+                        <Entry x:Name="NewFlowerPrice" Placeholder="Price" Keyboard="Numeric"/>
+                        <Button Clicked="Button_Clicked" Text="Add"/>
+                        <Button x:Name="confirm_btn" Clicked="confirm_btn_Clicked" Text="Confirm" Command="{Binding AddNewFlower}" IsVisible="False"/>
+                        <Label x:Name="lbl_AddConfirm" FontSize="Small"
                                HorizontalTextAlignment="Center"
                                TextColor="LightGreen"/>
                     </StackLayout>

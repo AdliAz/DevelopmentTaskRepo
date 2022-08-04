@@ -27,6 +27,18 @@
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
+      },
+      "Xamarin.Essentials.Interfaces/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.3.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Essential.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Essential.Interfaces.dll": {}
+        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
@@ -54,6 +66,18 @@
         },
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        }
+      },
+      "Xamarin.Essentials.Interfaces/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.3.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Essential.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Essential.Interfaces.dll": {}
         }
       }
     },
@@ -83,6 +107,18 @@
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
+      },
+      "Xamarin.Essentials.Interfaces/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.3.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Essential.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Essential.Interfaces.dll": {}
+        }
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
@@ -110,6 +146,18 @@
         },
         "runtime": {
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
+        }
+      },
+      "Xamarin.Essentials.Interfaces/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.3.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Essential.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Essential.Interfaces.dll": {}
         }
       }
     }
@@ -212,11 +260,24 @@
         "xamarin.essentials.1.6.1.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
+    },
+    "Xamarin.Essentials.Interfaces/1.5.3.2": {
+      "sha512": "TfMF7sbc+2FT3PpU0CosSVSvOh6nzB1N4D3iTrZRg9/9DZejXWUCgmR+3iU3I7ydwRhiohKTPa4Gkw5WZEfQyQ==",
+      "type": "package",
+      "path": "xamarin.essentials.interfaces/1.5.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Essential.Interfaces.dll",
+        "xamarin.essentials.interfaces.1.5.3.2.nupkg.sha512",
+        "xamarin.essentials.interfaces.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "Xamarin.Essentials >= 1.6.1"
+      "Xamarin.Essentials >= 1.6.1",
+      "Xamarin.Essentials.Interfaces >= 1.5.3.2"
     ]
   },
   "packageFolders": {
@@ -260,6 +321,10 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.6.1, )"
+          },
+          "Xamarin.Essentials.Interfaces": {
+            "target": "Package",
+            "version": "[1.5.3.2, )"
           }
         }
       }

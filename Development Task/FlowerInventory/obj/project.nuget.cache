@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pBezLoCVRdCQY8Jfp1Qz9Vup3iJrvPZdmGVttOzKF34wCwp0bH8+yPlLc/cMUdJ0LanmMXf+l6VWx2A5RGxriQ==",
+  "dgSpecHash": "/I8y7L73HNO8fOdOUfBE7LVhBLGw3NCK2hcvWJm0+aIS6EPdRNozcK3WPTDpKmXYqqgbW7NPDaJesdzfmf8+zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\FlowerInventory\\FlowerInventory.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,9 @@
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-x86.microsoft.net.native.compiler\\2.2.11-rel-30601-02\\runtime.win10-x86.microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.8-rel-30601-02\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.8-rel-30601-02.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.2.13\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.2.13.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512"
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.13\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.13.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\xamarin.essentials.interfaces\\1.5.3.2\\xamarin.essentials.interfaces.1.5.3.2.nupkg.sha512"
   ],
   "logs": []
 }

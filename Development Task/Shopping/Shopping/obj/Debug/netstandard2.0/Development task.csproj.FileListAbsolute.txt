@@ -19,22 +19,22 @@ C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping\Shopping\obj\Debug
 C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping\Shopping\obj\Debug\netstandard2.0\Views\ProductDetailsPage.xaml.g.cs
 C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping\Shopping\bin\Debug\netstandard2.0\Shopping.Models.dll
 C:\Users\adlis\Desktop\Xamarin-Forms-master\Shopping\Shopping\Shopping\bin\Debug\netstandard2.0\Shopping.Models.pdb
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\bin\Debug\netstandard2.0\Development task.deps.json
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\bin\Debug\netstandard2.0\Development task.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\bin\Debug\netstandard2.0\Development task.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Development task.csproj.AssemblyReference.cache
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Development task.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Views\HomeMasterDetailPage.xaml.g.cs
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Views\ProductsPage.xaml.g.cs
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Views\UserControls\HeaderUserControl.xaml.g.cs
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Development task.AssemblyInfoInputs.cache
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Development task.AssemblyInfo.cs
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Development task.csproj.CoreCompileInputs.cache
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Development task.csproj.CopyComplete
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Development task.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Development task.pdb
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\bin\Debug\netstandard2.0\Development task.deps.json
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\bin\Debug\netstandard2.0\Development task.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\bin\Debug\netstandard2.0\Development task.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\bin\Debug\netstandard2.0\FlowerInventory.Models.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\bin\Debug\netstandard2.0\FlowerInventory.Models.pdb
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Views\UserControls\HeaderUserControl.xaml.g.cs
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping\obj\Debug\netstandard2.0\Development task.csproj.CopyComplete

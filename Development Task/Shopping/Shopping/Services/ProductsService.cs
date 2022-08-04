@@ -47,17 +47,20 @@ namespace FlowerInventory.Services
             }
             if (newList.Count != 0)
             {
+                Console.WriteLine("Entered");
                 List<ProductModel> returnList = mockList.Concat(newList).ToList();
                 newList.Clear();
                 return returnList;
             }
-            return mockList;
+            return mockList; 
         }
 
         public IEnumerable<ProductModel> AddList(string name, int quantity, float price)
         {
             newList.Add(new ProductModel { ID = 13, Category = ProductsEnum.Flowers, Quantity = quantity, Name = name, Price = price, Thumbnail = "https://media.istockphoto.com/vectors/plumeria-flowers-bunch-vector-id1174296639?s=612x612" });
-            return newList;
+            List<ProductModel> returnList = mockList.Concat(newList).ToList();
+            newList.Clear();
+            return returnList;
         }
 
         /// <summary>

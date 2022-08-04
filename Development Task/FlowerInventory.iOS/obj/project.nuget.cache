@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gny6B6TsKMXjKlfOnCiqlIK2I77MfyCdi2GnE1pfsNEjeJQEFioR1ZRr/wxrUwXjcbfXFf/lYxnLymRitN5jig==",
+  "dgSpecHash": "aKLYKEXCpLjt5WoekN8qaqQ2y/m6DHMwnxxm2+vhuHmS1x/Km9YSepbwwFuI1zLlw1r9MoajRL9Udewol+Itzg==",
   "success": true,
   "projectFilePath": "C:\\Users\\adlis\\Desktop\\DevelopmentTaskRepo\\Development Task\\FlowerInventory.iOS\\FlowerInventory.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adlis\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\adlis\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512"
+    "C:\\Users\\adlis\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\adlis\\.nuget\\packages\\xamarin.essentials.interfaces\\1.5.3.2\\xamarin.essentials.interfaces.1.5.3.2.nupkg.sha512"
   ],
   "logs": []
 }

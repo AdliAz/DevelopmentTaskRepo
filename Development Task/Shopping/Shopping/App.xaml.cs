@@ -6,9 +6,9 @@ using FlowerInventory.Services.Interfaces;
 using FlowerInventory.Services;
 using FlowerInventory.ViewModels;
 using FlowerInventory.Views;
-using Xamarin.Essentials.Implementation;
-using Xamarin.Essentials.Interfaces;
 using Xamarin.Forms;
+using Xamarin.Essentials.Interfaces;
+using Xamarin.Essentials.Implementation;
 using FlowerInventory.Models.Models;
 
 namespace FlowerInventory
@@ -50,7 +50,6 @@ namespace FlowerInventory
             containerRegistry.RegisterForNavigation<ProductsPage, ProductsPageViewModel>();
 
             containerRegistry.Register<IProductsService, ProductsService>();
-            //containerRegistry.RegisterForNavigation<BasketPage, HeaderPageViewModel>();
         }
     }
 }

@@ -2,6 +2,7 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\FlowerInventory.iOS\
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\FlowerInventory.iOS\bin\iPhoneSimulator\Debug\FlowerInventory.iOS.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\FlowerInventory.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\FlowerInventory.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\FlowerInventory.iOS\bin\iPhoneSimulator\Debug\Essential.Interfaces.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\FlowerInventory.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\FlowerInventory.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\FlowerInventory.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items

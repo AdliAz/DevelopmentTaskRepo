@@ -1,5 +1,8 @@
 ﻿using Xamarin.Forms;
-using FlowerInventory.Services;
+using Xamarin.Forms.Xaml;
+using System.Windows.Input;
+using Xamarin.Essentials;
+using System;
 
 namespace FlowerInventory.Views
 {
@@ -12,14 +15,24 @@ namespace FlowerInventory.Views
 
         private void Button_Clicked(object sender, System.EventArgs e)
         {
-            Btn_AddConfirm.Text = "Flower had been added";
-            entryName.Text = "";
-            entryName.Placeholder = "Flower Name";
-            entryQty.Text = "";
-            entryQty.Placeholder = "Quantity";
-            entryPrice.Text = "";
-            entryPrice.Placeholder = "Price";
+            Preferences.Clear();
+            Preferences.Set("NewFlowerName", NewFlowerName.Text);
+            Preferences.Set("NewFlowerQty", NewFlowerQty.Text);
+            Preferences.Set("NewFlowerPrice", NewFlowerPrice.Text);
+            confirm_btn.IsVisible = true;
+            lbl_AddConfirm.Text = "Confirm?";
+        }
 
+        private void confirm_btn_Clicked(object sender, EventArgs e)
+        {
+            confirm_btn.IsVisible = false;
+            NewFlowerName.Text = "";
+            NewFlowerQty.Text = "";
+            NewFlowerPrice.Text = "";
+            NewFlowerName.Placeholder = "Flower Name";
+            NewFlowerQty.Placeholder = "Quantity";
+            NewFlowerPrice.Placeholder = "Price";
+            lbl_AddConfirm.Text = "New Flower has been Added";
         }
     }
 }

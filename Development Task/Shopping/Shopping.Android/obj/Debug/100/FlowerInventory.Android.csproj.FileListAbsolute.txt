@@ -1,10 +1,3 @@
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname.apk
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname.aab
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname-Signed.aab
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname-Signed.apk
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname-Signed.apk.idsig
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\Development task.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\Development task.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\build.props
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\adb.props
@@ -12,14 +5,35 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.An
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\res.flag
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\42\jl\files.cache
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\74\jl\files.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\43\jl\files.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\48\jl\files.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\49\jl\files.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\62\jl\files.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\65\jl\files.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\72\jl\files.cache
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\75\jl\files.cache
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\76\jl\files.cache
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\77\jl\files.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\78\jl\files.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\79\jl\files.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\82\jl\files.cache
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\R.txt
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\R.cs.flag
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\FlowerInventory.Android.csproj.CoreCompileInputs.cache
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\FlowerInventory.Android.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\FlowerInventory.Android.pdb
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname.apk
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname.aab
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname-Signed.aab
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname-Signed.apk
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\com.companyname.appname-Signed.apk.idsig
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\Development task.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\FlowerInventory.Models.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\Development task.pdb
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\FlowerInventory.Models.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\FlowerInventory.Android.csproj.CopyComplete
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\FlowerInventory.Android.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\FlowerInventory.Android.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\bin\com.companyname.appname.apk
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\bin\base.zip
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\bin\com.companyname.appname.aab
@@ -54,6 +68,10 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.An
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Development task.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Development task.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Essential.Interfaces.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FlowerInventory.Android.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FlowerInventory.Android.pdb
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FlowerInventory.Models.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FlowerInventory.Models.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FormsViewGroup.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FormsViewGroup.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Java.Interop.dll
@@ -72,6 +90,12 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.An
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Prism.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Prism.Unity.Forms.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Prism.Unity.Forms.pdb
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLite-net.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLitePCLRaw.core.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Buffers.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Core.dll
@@ -87,12 +111,11 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.An
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.IO.Compression.pdb
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Memory.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Net.Http.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Net.Http.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Numerics.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Numerics.pdb
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Runtime.dll
@@ -204,6 +227,7 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.An
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\typemaps.arm64-v8a.s
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\typemaps.armeabi-v7a.s
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\typemaps.x86.s
@@ -233,6 +257,7 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.An
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\androidx\cardview\R.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\androidx\core\R.java
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\androidx\lifecycle\runtime\R.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\androidx\media\R.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\androidx\recyclerview\R.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\androidx\transition\R.java
@@ -445,14 +470,19 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.An
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc6476832a0a3545a9d3\MainActivity.java
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc6476832a0a3545a9d3\MainApplication.java
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc6476832a0a3545a9d3\SplashActivity.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Connectivity_EssentialsNetworkCallback.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
@@ -460,6 +490,7 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.An
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
@@ -548,30 +579,3 @@ C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.An
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\FlowerInventory.Android.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\FlowerInventory.Android.pdb
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\FlowerInventory.Android.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\FlowerInventory.Android.pdb
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FlowerInventory.Android.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FlowerInventory.Android.pdb
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc6476832a0a3545a9d3\MainActivity.java
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc6476832a0a3545a9d3\MainApplication.java
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\src\crc6476832a0a3545a9d3\SplashActivity.java
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\FlowerInventory.Models.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\bin\Debug\FlowerInventory.Models.pdb
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\43\jl\files.cache
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\48\jl\files.cache
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\61\jl\files.cache
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\64\jl\files.cache
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\71\jl\files.cache
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\78\jl\files.cache
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\lp\81\jl\files.cache
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FlowerInventory.Models.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\FlowerInventory.Models.pdb
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLite-net.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLitePCLRaw.batteries_v2.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLitePCLRaw.core.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Buffers.dll
-C:\Users\adlis\Desktop\DevelopmentTaskRepo\Development Task\Shopping\Shopping.Android\obj\Debug\100\android\assets\System.Memory.dll
